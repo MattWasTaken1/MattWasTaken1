@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MattWasTaken1.
 - 👀 I’m interested in Software and Space!
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on any project.
+- 🌱 I’m currently learning SQL.
 - 📫 How to reach me: just.matt.tg (Instagram)
 
 <!---
